@@ -1,0 +1,5 @@
+This is the API Key from the TMDB API 
+Key: 242ab7e19d4c815a99d3249803599293
+
+1. URL for Now Playing:
+https://api.themoviedb.org/3/movie/now_playing?api_key=242ab7e19d4c815a99d3249803599293 
