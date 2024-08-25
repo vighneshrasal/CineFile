@@ -62,7 +62,7 @@ export const MovieDetail = () => {
           </p>
 
           <p className="my-4 w-11">
-            <a href={`https://www.imdb.com/title/${movie.imdb_id}`} target="_blank" rel="noreferer"><img className="w-11 rounded" src={imdb} alt="imdb_logo" /></a>
+            <a href={`https://www.imdb.com/title/${movie.imdb_id}`} target="_blank" rel="noreferrer"><img className="w-11 rounded" src={imdb} alt="imdb_logo" /></a>
           </p>
 
         </div>

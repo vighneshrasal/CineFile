@@ -1,5 +1,3 @@
-import { Link } from "react-router-dom"
-
 export const Footer = () => {
   return (
       <footer className="bg-white border-t-2 border-gray-200 shadow dark:bg-gray-900">
